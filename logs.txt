@@ -1,0 +1,7 @@
+Errore di sintassi 5///5
+Errore di sintassi 5////5
+Errore di sintassi 5////5
+Errore di sintassi: 5///5
+Errore di sintassi: 5////85
+Errore di sintassi: 5////855//5
+Errore di sintassi: 8///55
